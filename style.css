@@ -35,6 +35,12 @@ section {
     }
 }
 
+@media (max-width: 575px) {
+    section {
+        flex-basis: 100%;
+    }
+}
+
 
 /* Button #1 */
 
